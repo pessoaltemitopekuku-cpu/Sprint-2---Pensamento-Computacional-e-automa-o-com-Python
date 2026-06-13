@@ -89,5 +89,6 @@ Abaixo você encontra os caminhos para acessar todas as vertentes do projeto Sol
 
 * **🔗 Site do Protótipo (Frontend):** [Clique aqui para acessar o site no Lovable/Vercel](https://solari-energia.lovable.app/login)
 * **⚙️ API Interativa (Backend / Docs):** [Clique aqui para acessar a documentação Swagger do Render](https://solari-backend-8blm.onrender.com/docs)
-* **⚙️ Planejamento / Quadro Kanbam: ** [Clique aqui para acessar o quadro Kanbam](https://canva.link/e14v3g58uzfcjyt)
+* **⚙️ Planejamento / Quadro Kanbam:** [Clique aqui para acessar o quadro Kanbam](https://canva.link/e14v3g58uzfcjyt)
+* **⚙️ Código render (backend em python):** [Clique aqui para acessar o repositório do teste do backend](https://github.com/pessoaltemitopekuku-cpu/Solari-backend)
 * **📺 Vídeo de Demonstração (YouTube):** [Clique aqui para acessar o vídeo não listado](https://youtu.be/LW0QcdBQ4qo)
